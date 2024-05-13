@@ -3,7 +3,7 @@ import { exec } from "child_process";
 
 // const stream = conventionalChangelog(
 //   {
-//     preset: {
+//     preset: { 
 //       name: "conventionalcommits",
 //       types: [
 //         { type: "feat", section: "Features" },
